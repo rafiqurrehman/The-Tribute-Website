@@ -4,5 +4,5 @@
 #### Frontend
 - HTML
 - CSS
- 
-
+## Pre requisities
+-Visual Studio Code
