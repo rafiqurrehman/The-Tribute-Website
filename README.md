@@ -5,4 +5,4 @@
 - HTML
 - CSS
 ## Pre requisities
--Visual Studio Code
+- Visual Studio Code
